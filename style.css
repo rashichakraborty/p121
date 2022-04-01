@@ -1,0 +1,29 @@
+.heading
+  {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 12px;
+  }
+
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+
+.test{
+  background-color: aquamarine;
+  color: black;
+  font-size: 25px;
+  border-radius: 20px;
+}
